@@ -10,7 +10,7 @@ homescreen3 db 13,10,' | |\/| || |___    | |  | |___  | |  | || |\\   | | __  //
 homescreen4 db 13,10,' | |  | || |___|   | |  | |___| | |  | || | \\  | |_| |/ --- \| |  | || |___|  $'
 homescreen5 db 13,10,' |_|  |_||_|_____  |_|  |_|_____ \_\/_/ |_| ||  |_____||_/ \_||_|  |_||_|_____ $'
 
-namepresentation db 13,10,'                                by Neria Tsafrir                                 $'
+namepresentation db 13,10,'                                by Neria Tsafrir                          $'
 lines db 13,10,'  ____________________________________________________________________________    $'
 downtab db 13,10,'$'
 pleaseuse db 13,10,'                                  PLEASE USE:                         $'
@@ -21,13 +21,13 @@ pleaseuse4 db 13,10,'                  ||   ||                            ||   |
 pleaseuse5 db 13,10,'                            TO MOVE THE PLAYER                      $'
 pressanykey db 13,10,'            PLEASE PRESS P KEYBOARD KEY TO START MOVING THE METEOR              $'
 
-youwin1 db 13,10,'            ___   __  ____   _   _  _        _  ____  ___ __   _   $'
-youwin2 db 13,10,'             \ \ / / / __ \ | | | | \\      // / __ \ | \\| | | |  $'
-youwin3 db 13,10,'              \ V / | |  | || | | |  \\    // | |  | || |\\ | |_|  $'
-youwin4 db 13,10,'               | |  | |  | || |_| |   \\/\//  | |  | || | \ |  _   $'
-youwin5 db 13,10,'               |_|   \_\/_/ |_____|    \/\/    \_\/_/ |_| |_| |_|  $'
+youwin1 db 13,10,'            ___   __  ____   _   _  _        _  ____  ___ __   _  $'
+youwin2 db 13,10,'             \ \ / / / __ \ | | | | \\      // / __ \ | \\| | | | $'
+youwin3 db 13,10,'              \ V / | |  | || | | |  \\    // | |  | || |\\ | |_| $'
+youwin4 db 13,10,'               | |  | |  | || |_| |   \\/\//  | |  | || | \ |  _  $'
+youwin5 db 13,10,'               |_|   \_\/_/ |_____|    \/\/    \_\/_/ |_| |_| |_| $'
 goodjob db 13,10,'                       GOOD JOB! YOU WON THE GAME!                       $'
-presstoend db 13,10,'                         PRESS ANY KEY TO EXIT                         $'
+presstoend db 13,10,'                         PRESS ANY KEY TO EXIT                        $'
 
 gameover1 db 13,10,' ______    _   ___  __ _______    ____  _      _ ______ _____   _   $'
 gameover2 db 13,10,' |  ___|  /_\  |  \/  || |____|  / __ \ \\    //| |____||  __| | |  $'
