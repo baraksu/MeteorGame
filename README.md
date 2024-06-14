@@ -34,7 +34,18 @@ the user should make contact with 3 dollars in order to win.
 The dollar counter increases by one every time the player contacts it.
 in the next run of the move loop, the dollar will appear in a random place.
 ![image](https://github.com/baraksu/MeteorGame/assets/154760489/a50ac468-0d25-4056-9ead-0f2e62962cf8)
+## **END SCREENS**
 
 ## **win screen**
-## The game screen when the player contacts 3 dollar
+**This game screen appears only when the player contacts 3 dollars.**
 ![image](https://github.com/baraksu/MeteorGame/assets/154760489/9dc8bc50-1860-4337-810f-bbac8e18376f)
+
+## **game over screen**
+**This screen appears every time the player contacts one of the meteor**
+This screen appears also when the player presses 'escape' key. 
+![image](https://github.com/baraksu/MeteorGame/assets/154760489/76a9a1f8-fd5b-462c-9243-8c86bb3a480e)
+
+## רפלקציה  
+השנה במסגרת השיעורים בassembly נחשפתי לעולם הרחב של שפות התכנות.
+למדתי על מבנה יחידת המחשוב(CPUׂׂ) של המחשב ועל הצורה שבה הוא עובד.
+נהניתי ללמוד על 
