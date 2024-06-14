@@ -10,7 +10,7 @@ homescreen3 db 13,10,' | |\/| || |___    | |  | |___  | |  | || |\\   | | __  //
 homescreen4 db 13,10,' | |  | || |___|   | |  | |___| | |  | || | \\  | |_| |/ --- \| |  | || |___|  $'
 homescreen5 db 13,10,' |_|  |_||_|_____  |_|  |_|_____ \_\/_/ |_| ||  |_____||_/ \_||_|  |_||_|_____ $'
 
-namepresentation db 13,10,'                                by Neria Tsafrir                          $'
+namepresentation db 13,10, '                                by Neria Tsafrir                          $'
 lines db 13,10,'  ____________________________________________________________________________    $'
 downtab db 13,10,'$'
 pleaseuse db 13,10,'                                  PLEASE USE:                         $'
